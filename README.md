@@ -4,8 +4,6 @@
 
 ## Installation
 
-Install the template using [thirdweb create](https://portal.thirdweb.com/cli/create)
-
 ```bash
   npx thirdweb create app --next
 ```
