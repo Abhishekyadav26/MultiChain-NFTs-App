@@ -1,9 +1,5 @@
 
-![tw-banner](https://github.com/thirdweb-example/next-starter/assets/57885104/20c8ce3b-4e55-4f10-ae03-2fe4743a5ee8)
-
-# thirdweb-next-starter
-
-Starter template to build an onchain react native app with [thirdweb](https://thirdweb.com/) and [next](https://nextjs.org/).
+![tw-banner](https://drive.google.com/file/d/1fd7FHus1ImvwnusqWu_ngWGnk0Gfpjw-/view?usp=sharing)
 
 ## Installation
 
