@@ -2,9 +2,9 @@
 
 ## link for etherscan
 
- [here](https://sepolia.lineascan.build/address/0x683FCc4A1592095f4090E4F808e9DD3A038a8e19)
+ [here](https://sepolia.lineascan.build/address/0x9025C0BbDB0E12B865782dE3f1C3688628f8b1F1)
 
-### contract address :- 0x683FCc4A1592095f4090E4F808e9DD3A038a8e19
+### contract address :- 0x9025C0BbDB0E12B865782dE3f1C3688628f8b1F1
 
 ### blockchain network :- Linea Testnet
 
