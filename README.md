@@ -1,6 +1,13 @@
 ![Screenshot from 2024-10-20 18-52-11](https://github.com/user-attachments/assets/00834a87-d5b0-4021-a841-ab92beb20fed)
 
-# MultiChain-NFTs-App
+## link for etherscan
+
+ [here](https://sepolia.lineascan.build/address/0x683FCc4A1592095f4090E4F808e9DD3A038a8e19)
+
+### contract address :- 0x683FCc4A1592095f4090E4F808e9DD3A038a8e19
+
+### blockchain network :- Linea Testnet
+
 
 ## Installation
 
